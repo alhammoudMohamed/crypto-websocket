@@ -22,6 +22,9 @@ Next steps:
 
 - In the Application layer, we can create a web-socket listener that can subscribe to an API or Web-socket to get the messages and then pass it to the message-handler provider
 - Based on the event/chanel, we can call the respective handler to process the message
+- Websocket server will send a ping frame every 5-10 min
+  If the websocket server does not receive a pong frame back from the connection within a 10 minute period, the connection will be disconnected.
+  When you receive a ping, you must send a pong with a copy of ping's payload as soon as possible.
 
 - Modify TsCongfig file 
 - Create unit tests
