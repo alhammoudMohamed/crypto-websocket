@@ -23,6 +23,7 @@ Next steps:
 - In the Application layer, we can create a web-socket listener that can subscribe to an API or Web-socket to get the messages and then pass it to the message-handler provider
 - Based on the event/chanel, we can call the respective handler to process the message
 
+- Modify TsCongfig file 
 - Create unit tests
 - Create service level tests
 
