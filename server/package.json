@@ -1,0 +1,29 @@
+{
+  "name": "crypto-websocket",
+  "version": "1.0.0",
+  "description": "A websocket for crypto",
+  "main": "app.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alhammoudMohamed/crypto-websocket.git"
+  },
+  "author": "mohamed-al-hammoud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alhammoudMohamed/crypto-websocket/issues"
+  },
+  "homepage": "https://github.com/alhammoudMohamed/crypto-websocket#readme",
+  "dependencies": {
+    "tsyringe": "^4.8.0",
+    "ws": "^8.18.0",
+    "reflect-metadata": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/ws": "^8.5.13",
+    "typescript": "^5.7.2"
+  }
+}

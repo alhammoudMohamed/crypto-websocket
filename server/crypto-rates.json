@@ -1,0 +1,604 @@
+{
+  "data": [
+    {
+      "symbol": "BTC",
+      "timestamp": 1718707723,
+      "bid": 88973.83,
+      "ask": 91044,
+      "spot": 90008.92,
+      "change": -0.49
+    },
+    {
+      "symbol": "ETH",
+      "timestamp": 1718707723,
+      "bid": 1887.33,
+      "ask": 1904.4,
+      "spot": 1895.89,
+      "change": -0.29
+    },
+    {
+      "symbol": "LTC",
+      "timestamp": 1718707723,
+      "bid": 88.97,
+      "ask": 91.04,
+      "spot": 90.01,
+      "change": -0.49
+    },
+    {
+      "symbol": "XRP",
+      "timestamp": 1718707723,
+      "bid": 0.8897,
+      "ask": 0.9104,
+      "spot": 0.9001,
+      "change": -0.49
+    },
+    {
+      "symbol": "BCH",
+      "timestamp": 1718707723,
+      "bid": 388.97,
+      "ask": 391.04,
+      "spot": 390.01,
+      "change": -0.49
+    },
+    {
+      "symbol": "USDC",
+      "timestamp": 1718707723,
+      "bid": 0.9999,
+      "ask": 1.0001,
+      "spot": 1.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "XMR",
+      "timestamp": 1718707723,
+      "bid": 188.97,
+      "ask": 191.04,
+      "spot": 190.01,
+      "change": -0.49
+    },
+    {
+      "symbol": "XLM",
+      "timestamp": 1718707723,
+      "bid": 0.1889,
+      "ask": 0.191,
+      "spot": 0.19,
+      "change": -0.49
+    },
+    {
+      "symbol": "USDT",
+      "timestamp": 1718707723,
+      "bid": 0.9999,
+      "ask": 1.0001,
+      "spot": 1.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "QCAD",
+      "timestamp": 1718707723,
+      "bid": 1.33,
+      "ask": 1.35,
+      "spot": 1.34,
+      "change": 0.0
+    },
+    {
+      "symbol": "DOGE",
+      "timestamp": 1718707723,
+      "bid": 0.0889,
+      "ask": 0.091,
+      "spot": 0.09,
+      "change": -0.49
+    },
+    {
+      "symbol": "LINK",
+      "timestamp": 1718707723,
+      "bid": 8.89,
+      "ask": 9.1,
+      "spot": 9.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "MATIC",
+      "timestamp": 1718707723,
+      "bid": 1.88,
+      "ask": 1.9,
+      "spot": 1.89,
+      "change": -0.49
+    },
+    {
+      "symbol": "UNI",
+      "timestamp": 1718707723,
+      "bid": 6.89,
+      "ask": 7.1,
+      "spot": 7.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "COMP",
+      "timestamp": 1718707723,
+      "bid": 88.9,
+      "ask": 91.0,
+      "spot": 90.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "AAVE",
+      "timestamp": 1718707723,
+      "bid": 78.9,
+      "ask": 81.0,
+      "spot": 80.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "DAI",
+      "timestamp": 1718707723,
+      "bid": 0.9999,
+      "ask": 1.0001,
+      "spot": 1.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "SUSHI",
+      "timestamp": 1718707723,
+      "bid": 1.88,
+      "ask": 1.9,
+      "spot": 1.89,
+      "change": -0.49
+    },
+    {
+      "symbol": "SNX",
+      "timestamp": 1718707723,
+      "bid": 3.88,
+      "ask": 3.91,
+      "spot": 3.9,
+      "change": -0.49
+    },
+    {
+      "symbol": "CRV",
+      "timestamp": 1718707723,
+      "bid": 0.88,
+      "ask": 0.91,
+      "spot": 0.9,
+      "change": -0.49
+    },
+    {
+      "symbol": "DOT",
+      "timestamp": 1718707723,
+      "bid": 5.88,
+      "ask": 6.1,
+      "spot": 6.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "YFI",
+      "timestamp": 1718707723,
+      "bid": 14897.33,
+      "ask": 15044,
+      "spot": 14958.92,
+      "change": -0.49
+    },
+    {
+      "symbol": "MKR",
+      "timestamp": 1718707723,
+      "bid": 1889.73,
+      "ask": 1910.44,
+      "spot": 1900.09,
+      "change": -0.49
+    },
+    {
+      "symbol": "PAXG",
+      "timestamp": 1718707723,
+      "bid": 0.9999,
+      "ask": 1.0001,
+      "spot": 1.0,
+      "change": 0.0
+    },
+    {
+      "symbol": "ADA",
+      "timestamp": 1718707723,
+      "bid": 0.38,
+      "ask": 0.39,
+      "spot": 0.385,
+      "change": -0.49
+    },
+    {
+      "symbol": "BAT",
+      "timestamp": 1718707723,
+      "bid": 0.18,
+      "ask": 0.19,
+      "spot": 0.185,
+      "change": -0.49
+    },
+    {
+      "symbol": "ENJ",
+      "timestamp": 1718707723,
+      "bid": 0.58,
+      "ask": 0.59,
+      "spot": 0.585,
+      "change": -0.49
+    },
+    {
+      "symbol": "AXS",
+      "timestamp": 1718707723,
+      "bid": 12.88,
+      "ask": 13.1,
+      "spot": 13.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "DASH",
+      "timestamp": 1718707723,
+      "bid": 35.88,
+      "ask": 36.1,
+      "spot": 36.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "EOS",
+      "timestamp": 1718707723,
+      "bid": 0.78,
+      "ask": 0.79,
+      "spot": 0.785,
+      "change": -0.49
+    },
+    {
+      "symbol": "BAL",
+      "timestamp": 1718707723,
+      "bid": 8.88,
+      "ask": 9.1,
+      "spot": 9.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "KNC",
+      "timestamp": 1718707723,
+      "bid": 1.88,
+      "ask": 1.9,
+      "spot": 1.89,
+      "change": -0.49
+    },
+    {
+      "symbol": "ZRX",
+      "timestamp": 1718707723,
+      "bid": 0.58,
+      "ask": 0.59,
+      "spot": 0.585,
+      "change": -0.49
+    },
+    {
+      "symbol": "SAND",
+      "timestamp": 1718707723,
+      "bid": 0.78,
+      "ask": 0.79,
+      "spot": 0.785,
+      "change": -0.49
+    },
+    {
+      "symbol": "GRT",
+      "timestamp": 1718707723,
+      "bid": 0.18,
+      "ask": 0.19,
+      "spot": 0.185,
+      "change": -0.49
+    },
+    {
+      "symbol": "QNT",
+      "timestamp": 1718707723,
+      "bid": 128.88,
+      "ask": 131.1,
+      "spot": 130.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "ETC",
+      "timestamp": 1718707723,
+      "bid": 35.88,
+      "ask": 36.1,
+      "spot": 36.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "ETHW",
+      "timestamp": 1718707723,
+      "bid": 5.88,
+      "ask": 6.1,
+      "spot": 6.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "1INCH",
+      "timestamp": 1718707723,
+      "bid": 0.78,
+      "ask": 0.79,
+      "spot": 0.785,
+      "change": -0.49
+    },
+    {
+      "symbol": "CHZ",
+      "timestamp": 1718707723,
+      "bid": 0.18,
+      "ask": 0.19,
+      "spot": 0.185,
+      "change": -0.49
+    },
+    {
+      "symbol": "CHR",
+      "timestamp": 1718707723,
+      "bid": 0.0058,
+      "ask": 0.0059,
+      "spot": 0.00585,
+      "change": -0.49
+    },
+    {
+      "symbol": "SUPER",
+      "timestamp": 1718707723,
+      "bid": 0.0288,
+      "ask": 0.0291,
+      "spot": 0.029,
+      "change": -0.49
+    },
+    {
+      "symbol": "ELF",
+      "timestamp": 1718707723,
+      "bid": 0.0888,
+      "ask": 0.091,
+      "spot": 0.09,
+      "change": -0.49
+    },
+    {
+      "symbol": "OMG",
+      "timestamp": 1718707723,
+      "bid": 1.88,
+      "ask": 1.9,
+      "spot": 1.89,
+      "change": -0.49
+    },
+    {
+      "symbol": "FTM",
+      "timestamp": 1718707723,
+      "bid": 0.28,
+      "ask": 0.29,
+      "spot": 0.285,
+      "change": -0.49
+    },
+    {
+      "symbol": "MANA",
+      "timestamp": 1718707723,
+      "bid": 0.38,
+      "ask": 0.39,
+      "spot": 0.385,
+      "change": -0.49
+    },
+    {
+      "symbol": "SOL",
+      "timestamp": 1718707723,
+      "bid": 28.88,
+      "ask": 29.1,
+      "spot": 29.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "ALGO",
+      "timestamp": 1718707723,
+      "bid": 0.28,
+      "ask": 0.29,
+      "spot": 0.285,
+      "change": -0.49
+    },
+    {
+      "symbol": "LUNC",
+      "timestamp": 1718707723,
+      "bid": 0.0000058,
+      "ask": 0.0000059,
+      "spot": 0.00000585,
+      "change": -0.49
+    },
+    {
+      "symbol": "UST",
+      "timestamp": 1718707723,
+      "bid": 0.0099,
+      "ask": 0.0101,
+      "spot": 0.01,
+      "change": -0.49
+    },
+    {
+      "symbol": "ZEC",
+      "timestamp": 1718707723,
+      "bid": 38.88,
+      "ask": 39.1,
+      "spot": 39.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "XTZ",
+      "timestamp": 1718707723,
+      "bid": 1.88,
+      "ask": 1.9,
+      "spot": 1.89,
+      "change": -0.49
+    },
+    {
+      "symbol": "AMP",
+      "timestamp": 1718707723,
+      "bid": 0.0088,
+      "ask": 0.0091,
+      "spot": 0.009,
+      "change": -0.49
+    },
+    {
+      "symbol": "REN",
+      "timestamp": 1718707723,
+      "bid": 0.18,
+      "ask": 0.19,
+      "spot": 0.185,
+      "change": -0.49
+    },
+    {
+      "symbol": "UMA",
+      "timestamp": 1718707723,
+      "bid": 3.88,
+      "ask": 3.91,
+      "spot": 3.9,
+      "change": -0.49
+    },
+    {
+      "symbol": "SHIB",
+      "timestamp": 1718707723,
+      "bid": 0.0000088,
+      "ask": 0.0000091,
+      "spot": 0.000009,
+      "change": -0.49
+    },
+    {
+      "symbol": "LRC",
+      "timestamp": 1718707723,
+      "bid": 0.88,
+      "ask": 0.91,
+      "spot": 0.9,
+      "change": -0.49
+    },
+    {
+      "symbol": "ANKR",
+      "timestamp": 1718707723,
+      "bid": 0.0288,
+      "ask": 0.0291,
+      "spot": 0.029,
+      "change": -0.49
+    },
+    {
+      "symbol": "HBAR",
+      "timestamp": 1718707723,
+      "bid": 0.0888,
+      "ask": 0.091,
+      "spot": 0.09,
+      "change": -0.49
+    },
+    {
+      "symbol": "EGLD",
+      "timestamp": 1718707723,
+      "bid": 28.88,
+      "ask": 29.1,
+      "spot": 29.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "AVAX",
+      "timestamp": 1718707723,
+      "bid": 12.88,
+      "ask": 13.1,
+      "spot": 13.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "ONE",
+      "timestamp": 1718707723,
+      "bid": 0.18,
+      "ask": 0.19,
+      "spot": 0.185,
+      "change": -0.49
+    },
+    {
+      "symbol": "GALA",
+      "timestamp": 1718707723,
+      "bid": 0.0288,
+      "ask": 0.0291,
+      "spot": 0.029,
+      "change": -0.49
+    },
+    {
+      "symbol": "ALICE",
+      "timestamp": 1718707723,
+      "bid": 5.88,
+      "ask": 6.1,
+      "spot": 6.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "ATOM",
+      "timestamp": 1718707723,
+      "bid": 10.88,
+      "ask": 11.1,
+      "spot": 11.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "DYDX",
+      "timestamp": 1718707723,
+      "bid": 2.88,
+      "ask": 2.91,
+      "spot": 2.9,
+      "change": -0.49
+    },
+    {
+      "symbol": "CELO",
+      "timestamp": 1718707723,
+      "bid": 0.38,
+      "ask": 0.39,
+      "spot": 0.385,
+      "change": -0.49
+    },
+    {
+      "symbol": "STORJ",
+      "timestamp": 1718707723,
+      "bid": 0.78,
+      "ask": 0.79,
+      "spot": 0.785,
+      "change": -0.49
+    },
+    {
+      "symbol": "SKL",
+      "timestamp": 1718707723,
+      "bid": 0.18,
+      "ask": 0.19,
+      "spot": 0.185,
+      "change": -0.49
+    },
+    {
+      "symbol": "CTSI",
+      "timestamp": 1718707723,
+      "bid": 0.0288,
+      "ask": 0.0291,
+      "spot": 0.029,
+      "change": -0.49
+    },
+    {
+      "symbol": "BAND",
+      "timestamp": 1718707723,
+      "bid": 1.88,
+      "ask": 1.9,
+      "spot": 1.89,
+      "change": -0.49
+    },
+    {
+      "symbol": "ENS",
+      "timestamp": 1718707723,
+      "bid": 38.88,
+      "ask": 39.1,
+      "spot": 39.0,
+      "change": -0.49
+    },
+    {
+      "symbol": "RNDR",
+      "timestamp": 1718707723,
+      "bid": 2.88,
+      "ask": 2.91,
+      "spot": 2.9,
+      "change": -0.49
+    },
+    {
+      "symbol": "MASK",
+      "timestamp": 1718707723,
+      "bid": 1.88,
+      "ask": 1.9,
+      "spot": 1.89,
+      "change": -0.49
+    },
+    {
+      "symbol": "APE",
+      "timestamp": 1718707723,
+      "bid": 3.88,
+      "ask": 3.91,
+      "spot": 3.9,
+      "change": -0.49
+    }
+  ]
+}
